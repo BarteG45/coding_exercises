@@ -10,5 +10,4 @@ Don't forget the space after the closing parentheses!'''
 #MY SOLUTION
 def create_phone_number(n):
     text = ''.join(str(x) for x in n)
-    print(text[0:2])
     return "({0}) {1}-{2}".format(text[0:3], text[3:6], text[6:])
