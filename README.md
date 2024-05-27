@@ -1,2 +1,2 @@
 # code_wars
-Code Wars solutions
+Code Wars and other coding exercises solutions
