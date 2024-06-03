@@ -1,2 +1,2 @@
 # code_wars
-The aim of this repository is to document my development as a Python programmer - Code Wars and other coding exercises solutions
+Code Wars and other python coding exercises solutions. The repository created to document my progress in coding.
