@@ -4,8 +4,7 @@ Create two lists: names = ["Alice", "Bob", "Charlie"] and scores = [85, 92, 78].
 
 Use the zip function to combine these lists into a list of tuples.
 
-Use list comprehension to create a new list containing strings in the format "Name: score" for each element.
-'''
+Use list comprehension to create a new list containing strings in the format "Name: score" for each element.'''
 
 #MY SOLUTION
 names = ["Alice", "Bob", "Charlie"]
