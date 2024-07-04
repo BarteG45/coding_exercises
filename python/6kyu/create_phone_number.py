@@ -7,7 +7,11 @@ The returned format must be correct in order to complete this challenge.
 
 Don't forget the space after the closing parentheses!'''
 
-#MY SOLUTION
+#MY SOLUTIONS
 def create_phone_number(n):
     text = ''.join(str(x) for x in n)
     return "({0}) {1}-{2}".format(text[0:3], text[3:6], text[6:])
+
+def create_phone_number(n):
+    number = f"({n[0]}{n[1]}{n[2]}) {n[3]}{n[4]}{n[5]}-{n[6]}{n[7]}{n[8]}{n[9]}"
+    return number
